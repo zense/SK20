@@ -1,8 +1,9 @@
-##SK20 
+#SK20 
+SK 20 (Share Knowledge in 20 minutes) is a series of talks started by our group at IIIT-B, we believe that knowledge increasings by sharing and not hiding. 
 <br>
-This repository contains all the presentations and other relevant materials related to the talks which we host at IIITB
+This repository contains all the presentations and other relevant materials related to the talks which we host at IIIT-B. For any queries or suggestions please reach out to us at www.facebook.com/zense.dev 
 
-#Instructions
+##Instructions
 
 You can have all these files on your system, we keep updating our repository regularly, 
 
