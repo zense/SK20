@@ -13,7 +13,7 @@ If you want then you can have all these files on your system, we keep updating o
 For the Windows Users, refer to this url: https://windows.github.com/
 * From your terminal, type in the following command:
   ```
-  git clone http://github.com/zense/SK20.git
+  git clone http://github.com/zense/SK20.git  
   cd SK20
   ```
 
