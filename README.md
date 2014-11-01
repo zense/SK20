@@ -12,10 +12,10 @@ If you want then you can have all these files on your system, we keep updating o
 * Open terminal in Ubuntu and type in : sudo apt-get install git (Skip this step if you have git already installed on your system)  
 For the Windows Users, refer to this url: https://windows.github.com/
 * From your terminal, type in the following command:
-  ```
-  git clone http://github.com/zense/SK20.git  
-  cd SK20
-  ```
+```
+git clone http://github.com/zense/SK20.git  
+cd SK20
+```
 
 And you are done!  
 
