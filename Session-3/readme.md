@@ -1,5 +1,4 @@
-#"Compiler vs Interpreter" and "Detailed Explanation of Working of a Compiler using a simple Example"
-
+#"Compiler vs Interpreter" 
 ->Comparison of compiler and interpreter on the grounds of speed, memory, target system, User-Friendliness
 ->Using an simple code snippet, explanation of various steps involved in working of a compiler
 
